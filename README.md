@@ -11,4 +11,4 @@ Understanding factors that affect coupon redemption is crucial to determining th
 
 ## Architecture
 
-<img src="others/methodology.png" alt="methodology"/>
+<img src="others/methodology.png" alt="methodology" width="1000" height="600"/>
