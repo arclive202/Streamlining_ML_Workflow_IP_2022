@@ -1,0 +1,18 @@
+python 3
+
+pyspark
+numpy
+pandas
+matplotlib
+requests
+mlflow
+scipy
+implicit
+joblib
+scikit-learn
+hyperopt
+
+
+R
+
+completejourney
